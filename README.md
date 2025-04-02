@@ -1,3 +1,3 @@
 # randomcodingquetsion
 
-## change the API with your personal api key
+## change the API with your personal api key in views.py file
